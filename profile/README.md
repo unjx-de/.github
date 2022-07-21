@@ -1,5 +1,1 @@
-# UNjX
-
-<img src="https://github.com/unjx-de/.github/blob/main/profile/logo.png" alt="unjxde"/>
-
-[Docker Hub](https://hub.docker.com/u/unjxde)
+<img src="https://github.com/unjx-de/.github/edit/main/profile/icons/docker.png#gh-light-mode-only" alt="Angular" align=left width=24 height=24><img src="https://github.com/unjx-de/.github/edit/main/profile/icons/docker-white.png#gh-dark-mode-only" alt="Angular" align=left width=24 height=24>[Docker Hub](https://hub.docker.com/r/unjxde)
